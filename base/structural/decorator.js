@@ -1,0 +1,1 @@
+// Decorator is use to extend a class with other code
